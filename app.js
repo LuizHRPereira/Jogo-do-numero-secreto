@@ -1,6 +1,10 @@
 let listaDeNumerosSorteados = [];
 <<<<<<< HEAD
+<<<<<<< HEAD
 let numeroLimite = 30;
+=======
+let numeroLimite = 10;
+>>>>>>> parent of 47fc826 (alterando limite par 100)
 =======
 let numeroLimite = 10;
 >>>>>>> parent of 47fc826 (alterando limite par 100)
